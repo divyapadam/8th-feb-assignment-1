@@ -1,0 +1,12 @@
+KM=float(input("ENTER KM"))
+CM=(KM*100000)
+print("converting KM into CM",)
+
+
+   ENTER KM
+4
+converting KM into CM 400000.0
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit termina
